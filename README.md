@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img alt="Moses Iluyemi Github Stats" src="https://github-readme-stats.vercel.app/api?username=mozaicdb&show_icons=true&hide_border=true&theme=radical"/>
+<img align="left" alt="Moses Iluyemi Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozaicdb&layout=compact&theme=radical" />
